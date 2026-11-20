@@ -15,3 +15,10 @@ Yes, there is statistically significant evidence that the relationship between P
 
 Holding all the other variables constant, individuals with more than 50 pack-years of smoking are predicted to have an FEV1/FVC ratio 0.04 lower than individuals with 10 or fewer pack-years when PRS is zero.
 
+## Exercise 4
+
+According to the model, a one-unit increase in fruit availability is associated with a 0.028 decrease in predicted daily travel distance when frugivory is zero, holding all the other variables constant. The interaction coefficient of −0.130 indicates that the relationship becomes more negative as frugivory increases.
+
+## Exercise 5
+
+Holding all the other variables constant, a one-unit increase in frugivory is associated with a 0.041 decrease in predicted daily travel distance when fruit availability is zero. Since frugivory is a proportion, this represents an increase from 0 to 1.
