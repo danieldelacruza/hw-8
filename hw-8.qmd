@@ -22,3 +22,7 @@ According to the model, a one-unit increase in fruit availability is associated 
 ## Exercise 5
 
 Holding all the other variables constant, a one-unit increase in frugivory is associated with a 0.041 decrease in predicted daily travel distance when fruit availability is zero. Since frugivory is a proportion, this represents an increase from 0 to 1.
+
+## Exercise 6
+
+Yes, the figure suggests that the effect of Prop 56 on smoking prevalence depends on income status. For low-income adults, predicted smoking prevalence decreased from 14.0% to 6.8%, a decrease of 7.2 percentage points. However, for high-income adults, it only decreased from 4.5% to 4.2%, a decrease of 0.3 percentage points. The confidence intervals do not overlap for low-income adults, while they overlap for high-income adults. This suggests that the effect was greater for low-income adults, although a formal interaction test would be needed to confirm the statistical significance.
