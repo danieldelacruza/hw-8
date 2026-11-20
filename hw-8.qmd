@@ -1,0 +1,17 @@
+---
+title: "Homework 8"
+author: "Daniel Enrique De la Cruz Alvarado"
+format: pdf
+---
+## Exercise 1
+
+According to the model, a one-unit increase in PRS is associated with a 0.03 decrease in the predicted FEV1/FVC ratio for individuals with 10 or fewer pack-years of smoking, holding all the other variables constant. As a result, this relationship becomes more negative as pack-years increase.
+
+## Exercise 2
+
+Yes, there is statistically significant evidence that the relationship between PRS and FEV1/FVC depends on pack-years of smoking. All interaction terms have p-values less than 0.001, indicating that the relationship differs depending on smoking history.
+
+## Exercise 3
+
+Holding all the other variables constant, individuals with more than 50 pack-years of smoking are predicted to have an FEV1/FVC ratio 0.04 lower than individuals with 10 or fewer pack-years when PRS is zero.
+
